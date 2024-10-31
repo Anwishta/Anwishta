@@ -1,4 +1,4 @@
-
+## Hi there! I'm Anwishta 👋
 
 - 🔭 I’m currently working on a social media website with unique features and an intuitive user experience and it,s a project called "VibeHub".
 - 🌱 I’m a Computer Science Engineering student, constantly learning and exploring data science.
