@@ -1,7 +1,6 @@
 ## Hi there! I'm Anwishta 👋
 
-- 🔭 I’m currently working on a social media website with unique features and an intuitive user experience and it,s a project called "VibeHub".
-- 🌱 I’m a Computer Science Engineering student, constantly learning and exploring data science.
+- 🌱 I’m a Computer Science Engineering student, constantly learning and exploring data science and AI.
 - 👯 I’m looking to collaborate on interesting projects using the MERN stack, Python, and Java.
 - 💬 Ask me about my experience with open-source contributions, especially through GSOC, or my articles on GeeksforGeeks!
 - 📫 How to reach me: anwishtaghosh@gmail.com
